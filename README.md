@@ -62,3 +62,7 @@ L'objectiu que considero més important és aprendre a programar amb més autono
 **Eina d'IA utilitzada:** ChatGPT.
 
 He revisat les propostes de la IA i he triat els objectius acadèmic, tècnic i de futur que s'ajusten als meus interessos.
+
+## 6. La meva infografia: els meus objectius de segon d'SMX
+
+![Infografia dels meus objectius de segon d'SMX](img/INFOGRAFIA%20ALEIX%20BUENO.png)
